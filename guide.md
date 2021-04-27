@@ -4,11 +4,11 @@
 
 1、**产品路径**：选择左上角的"**全部产品**"一级菜单,找到"**云通信**"，选择“**智能短信 ISMS**”
 
-![image](../../isms/images/智能短信ISMS_控制台菜单.png)
+![menu](D:\MyCloud\GitHub\isms\images\智能短信ISMS_控制台菜单.png)
 
 
 
 2、**服务开通**：点击“提交工单”，提供对应账号信息，并注明申请开通智能短信ISMS服务
 
-![image](../../isms/images/智能短信ISMS_服务开通申请.png)
+![menu](D:\MyCloud\GitHub\isms\images\智能短信ISMS_服务开通申请.png)
 
