@@ -10,7 +10,7 @@
 * 审核标准
   * [签名审核标准](isms\introduction\1025\2103.md)
   * [审核时间及流程](isms\introduction\1025\2105.md)
-* [词汇表](_glossary.md)
+* [词汇表](isms/_glossary.md)
 
 
 
@@ -23,5 +23,5 @@
 
 ## 3.使用指南
 
-* [发送第一条智能短信](guide.md)
+* [发送第一条智能短信](isms/guide.md)
 
