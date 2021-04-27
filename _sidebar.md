@@ -1,4 +1,4 @@
-* [概览](README.md)
+* [概览](isms/README.md)
 * 产品介绍   
    * [什么是智能短信](isms/README.md)
    * 审核标准
