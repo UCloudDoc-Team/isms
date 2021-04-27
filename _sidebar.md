@@ -3,7 +3,7 @@
    * [什么是智能短信](isms/README.md)
    * 审核标准
      * [签名审核标准](isms\introduction\1025\2103.md)
-     * [审核时间及流程](isms\introduction\1025\2105.md)
+     * [审核时间及流程](isms\introduction\1025\2107.md)
 * 计费
    * [计费模式](isms\price\1033.md)
    * [定价表](isms\price\1033.md)
