@@ -10,7 +10,7 @@
 * [什么是智能短信](isms/README)
 * 审核标准
   * [签名审核标准](isms\introduction\1025\2103.md)
-  * [审核时间及流程](isms\introduction\1025\2105.md)
+  * [审核时间及流程](isms\introduction\1025\2107.md)
 * [词汇表](isms/_glossary.md)
 
 
